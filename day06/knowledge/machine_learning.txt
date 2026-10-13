@@ -1,0 +1,3 @@
+machine learning is a branch of Artificial Intelligence.
+
+it enables computers to learn from data without being explicitly programmed.

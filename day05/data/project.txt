@@ -1,0 +1,13 @@
+Project Name: Smart library System 
+
+project  Duration :January 2026 to june 2026
+programming language:python 
+database :
+sQLite 
+team Members:
+Rahul 
+anitha
+Vikram 
+
+the objective of the project was to automate
+library manager:intelligence 

@@ -1,0 +1,5 @@
+wheather forecasting predicts future atomspheric conditions.
+it uses temperture,
+humidity,
+wind speed,
+and pressure.
